@@ -4,9 +4,9 @@ A 3D-printed single leg from a Theo Jansen-style walking linkage, the same mecha
 
 No metal, no electronics, no glue. Every joint is just a printed pin spinning in a printed hole. This is one leg only, hand-cranked at the pivot pin, built and tested before committing to the full 6-leg machine.
 
-![Isometric view of the leg assembly and hardware](images/leg-assembly-iso.png)
+![Isometric view of the leg assembly and hardware](leg-assembly-iso.png)
 
-![Top view of the leg assembly and hardware](images/leg-assembly-top.png)
+![Top view of the leg assembly and hardware](leg-assembly-top.png)
 
 <!-- TODO: add demo video/gif once I have the file named -->
 
@@ -52,7 +52,7 @@ This leg has 7 pivot joints: the crank pin (`X`), the fixed frame pivot (`Y`), a
 
 PETG, not PLA. PLA cracks when you flex it to snap a joint together, PETG just bends.
 
-![Front profile view of all the leg parts, sorted by length](images/leg-parts-profile.png)
+![Front profile view of all the leg parts, sorted by length](leg-parts-profile.png)
 
 ## Getting it right
 
@@ -88,9 +88,9 @@ One more thing that mattered more than expected: deburring every hole and pin be
 |---|---|
 | `README.md` | this file |
 | `LICENSE` | project license |
-| `images/leg-assembly-iso.png` | isometric view of the assembly |
-| `images/leg-assembly-top.png` | top view of the assembly |
-| `images/leg-parts-profile.png` | front profile view, parts sorted by length |
+| `leg-assembly-iso.png` | isometric view of the assembly |
+| `leg-assembly-top.png` | top view of the assembly |
+| `leg-parts-profile.png` | front profile view, parts sorted by length |
 
 <!-- TODO: add the CAD and STL files -->
 <!-- TODO: add the demo video/gif -->
