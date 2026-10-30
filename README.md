@@ -8,7 +8,7 @@ No metal, no electronics, no glue. Every joint is just a printed pin spinning in
 
 ![Top view of the leg assembly and hardware](leg-assembly-top.png)
 
-<!-- TODO: add demo video/gif once I have the file named -->
+[Demo video](https://drive.google.com/file/d/1PoJgACmGpPyqxlD8eR0PVNZTly7DotRS/view?usp=sharing)
 
 ## Why I made it
 
@@ -93,7 +93,6 @@ One more thing that mattered more than expected: deburring every hole and pin be
 | `leg-parts-profile.png` | front profile view, parts sorted by length |
 
 <!-- TODO: add the CAD and STL files -->
-<!-- TODO: add the demo video/gif -->
 
 ## Tools and materials
 
